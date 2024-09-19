@@ -112,6 +112,3 @@ This dataset and analysis can be used to gain insights into employee attrition p
 
 Feel free to fork this repository and contribute to the analysis. You can add more visualizations, perform additional statistical analyses, or propose retention strategies based on the findings.
 
-## License
-
-[Include appropriate license information here]
